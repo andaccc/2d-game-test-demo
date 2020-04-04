@@ -1,0 +1,35 @@
+# --------------- #
+# Unity generated #
+# --------------- #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+.gradle/
+
+# ----------------------- #
+# Visual Studio generated #
+# ----------------------- #
+.vs/
+ExportedObj/
+*.csproj
+*.sln
+*.svd
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+
+# --------------- #
+# Builds #
+# --------------- #
+*.apk
+*.unitypackage
+
+#UnityPackageManager/
+#*.meta
+
+#Project Photon.csproj
+#Project Photon.sln
