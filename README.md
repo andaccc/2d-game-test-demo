@@ -1,4 +1,4 @@
-# 2d-testing
+# 2d-platform-game-testing
 A 2d game demo I made with free assets to test things out
 
 also hosted on aws, u can play it here
