@@ -15,6 +15,7 @@ Attack - X
 Charged Attack - Hold X for ~2 seconds and release
 
 **Beware of volumn**
+
 Recommend to go to the setting and adjust the volume level first 
 
 
