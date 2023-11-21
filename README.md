@@ -16,6 +16,8 @@ Charged Attack - Hold X for ~2 seconds and release
 
 **Beware of volumn**
 Recommend to go to the setting and adjust the volume level first 
+
+
 ![image](https://github.com/andaccc/2d-game-test-demo/assets/8611553/4e4b33c1-324f-4cca-b24e-b3c384520f16)
 
 
