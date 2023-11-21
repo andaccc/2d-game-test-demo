@@ -9,7 +9,9 @@ A Unity 2d game test demo I made with free assets to try things out
 ### Control
 
 Movement - Arrow keys
+
 Attack - X 
+
 Charged Attack - Hold X for ~2 seconds and release
 
 **Beware of volumn**
